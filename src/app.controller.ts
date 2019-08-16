@@ -1,4 +1,4 @@
-import {Controller, Get, OnApplicationBootstrap} from '@nestjs/common';
+import {Controller, Get} from "@nestjs/common";
 import * as readline from "readline";
 
 interface IBitMap {
